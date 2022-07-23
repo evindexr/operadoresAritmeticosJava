@@ -16,6 +16,9 @@ public class Repaso {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Primera linea progra2");
+        System.out.println("prueba de update");
+        
     }
     
 }
