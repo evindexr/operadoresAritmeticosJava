@@ -60,6 +60,8 @@ public class Repaso {
               break;
 
     default:
+        
+        System.out.println("Favor ingresar una opcion valida");
         break;
          }
         
